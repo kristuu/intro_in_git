@@ -2,7 +2,7 @@
     Testa programma
     Autors: Kristiāns Artis Bērziņš
 '''
-from random iport randint
+from random import randint
 
 skaitlis = randint(1, 10)
 
