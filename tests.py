@@ -10,4 +10,4 @@ while skaitlis != 9 :
     print('Tests')
     skaitlis = randint(1, 10)
 
-print('Programma darbu beidz.')
+print('STOP')

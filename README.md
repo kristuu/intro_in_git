@@ -20,4 +20,6 @@ git status
 
 
 ## Izmantotā literatūra
-» A. Autors «Example book»
+* Grāmata 1
+* Grāmata 2
+    * Papildus info par grāmatu 2
