@@ -11,5 +11,7 @@ git add . # Nofikse izmainitos failus u. tml.
 git commit -m "Veiktas izmainas!"
 
 git push origin main
-
 ```
+
+## Izmantotā literatūra
+» A. Autors «Example book»
